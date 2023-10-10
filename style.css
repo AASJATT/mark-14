@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:purple;
+}
+label{
+    display: block;
+    padding-top: 1rem;
+}
+div{
+    padding-top: 1rem;
+    font-size: large;
+    font-weight: bold;}
+    
+button{
+    display:block;
+    margin:auto;
+    margin-top: 1rem;
+    color:white;
+    background-color: purple;
+    border-radius: 0.5rem;
+    border:none;
+    padding:0.5rem;
+     width:20%;}
+    
+input{
+    padding:1rem;
+    border-radius: 0.5rem;
+    width: 50%;
+}
+::placeholder{
+    color:brown;
+}
